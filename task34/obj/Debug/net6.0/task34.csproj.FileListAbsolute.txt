@@ -1,0 +1,15 @@
+F:\courseC_sh\homeworkC_sh5\task34\bin\Debug\net6.0\task34.exe
+F:\courseC_sh\homeworkC_sh5\task34\bin\Debug\net6.0\task34.deps.json
+F:\courseC_sh\homeworkC_sh5\task34\bin\Debug\net6.0\task34.runtimeconfig.json
+F:\courseC_sh\homeworkC_sh5\task34\bin\Debug\net6.0\task34.dll
+F:\courseC_sh\homeworkC_sh5\task34\bin\Debug\net6.0\task34.pdb
+F:\courseC_sh\homeworkC_sh5\task34\obj\Debug\net6.0\task34.csproj.AssemblyReference.cache
+F:\courseC_sh\homeworkC_sh5\task34\obj\Debug\net6.0\task34.GeneratedMSBuildEditorConfig.editorconfig
+F:\courseC_sh\homeworkC_sh5\task34\obj\Debug\net6.0\task34.AssemblyInfoInputs.cache
+F:\courseC_sh\homeworkC_sh5\task34\obj\Debug\net6.0\task34.AssemblyInfo.cs
+F:\courseC_sh\homeworkC_sh5\task34\obj\Debug\net6.0\task34.csproj.CoreCompileInputs.cache
+F:\courseC_sh\homeworkC_sh5\task34\obj\Debug\net6.0\task34.dll
+F:\courseC_sh\homeworkC_sh5\task34\obj\Debug\net6.0\refint\task34.dll
+F:\courseC_sh\homeworkC_sh5\task34\obj\Debug\net6.0\task34.pdb
+F:\courseC_sh\homeworkC_sh5\task34\obj\Debug\net6.0\task34.genruntimeconfig.cache
+F:\courseC_sh\homeworkC_sh5\task34\obj\Debug\net6.0\ref\task34.dll
